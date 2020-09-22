@@ -2,7 +2,7 @@
 
  - ⚡ **Fun fact:** I've designed my life around 5x5 _(Five years & Five tries)_.
 
- - 🔭  I've cofounded [Zipwhip](https://www.zipwhip.com), [Coinme](https://www.coinme.com), and am currently working on my Third.
+    * I've cofounded [Zipwhip](https://www.zipwhip.com), [Coinme](https://www.coinme.com), and am currently working on my Third.
  
 <!--
 **msmyers/msmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
