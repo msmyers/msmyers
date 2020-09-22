@@ -2,7 +2,7 @@
  
  - I'm a full-stack Entrepreneur - product, marketing, engineering, salesforce.
  
- - I've cofounded five companies, created two industries, and am pivoting into Trash.
+ - I've cofounded a few companies, and have started/first-mover on two industries.
 
    * **[Zipwhip](https://www.zipwhip.com)** - _"Your customers want to text you, let them."_
    
