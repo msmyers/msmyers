@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ - ⚡ **Fun fact:** I've designed my life around 5x5 _(Five years & Five tries)_.
+
+   * 🔭 I’m currently working on my Third.
+ 
 <!--
 **msmyers/msmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
