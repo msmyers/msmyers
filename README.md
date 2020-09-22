@@ -10,7 +10,7 @@
    
    * **[EvoEco](https://www.evoeco.com)** - _"We help people see the good in what they choose."_
  
-As an ENTP, I thrive on dreams of a future, and work on bringing it into the present.
+As an ENTP, I thrive on dreams of a future, and work on bringing them into the present.
 
 <!--
 **msmyers/msmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
