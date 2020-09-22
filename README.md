@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I do startups.
 
- - ⚡ **Fun fact:** I've designed my life around 5x5 _(Five years & Five tries)_.
+ - I'm a full-stack entrepreneur - strategy, product, engineering.
+ 
+ - I've cofounded [Zipwhip](https://www.zipwhip.com), [Coinme](https://www.coinme.com) - creating two industries.
 
-    * I've cofounded [Zipwhip](https://www.zipwhip.com), [Coinme](https://www.coinme.com), and am currently working on my Third.
+ - ⚡ **I design my life around 5x5 _(Five years & Five tries)_** - The sweet spot between impact vs opportunity cost.
+
+As an ENTP, I thrive on seeing a future & pulling it into the present.
  
 <!--
 **msmyers/msmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
