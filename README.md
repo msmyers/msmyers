@@ -2,7 +2,7 @@
  
  - I'm a full-stack Entrepreneur - product, marketing, engineering, salesforce.
  
- - I've cofounded a few companies, and have started/first-mover on two industries.
+ - I've cofounded a few companies, and have first-mover/started two _industries_.
 
    * **[Zipwhip](https://www.zipwhip.com)** - _"Your customers want to text you, let them."_
    
