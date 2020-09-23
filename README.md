@@ -12,6 +12,8 @@
  
 As an ENTP, I thrive on dreams of a future, and work on bringing them into the present.
 
+ * I'm into Politics, and I think we should talk.
+
 <!--
 **msmyers/msmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
