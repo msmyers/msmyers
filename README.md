@@ -6,19 +6,19 @@
 
    * **[Zipwhip](https://www.zipwhip.com)** - _"Your customers want to text, let them."_
    
-   * **[Coinme](https://www.coinme.com)** - _"We help people like you Get Bitcoin"_
+   * **[Coinme](https://www.coinme.com)** - _"We help people like you et Bitcoin"_
    
    * **[EvoEco](https://www.evoeco.com)** - _"We help people see the good in what they choose."_
  
 As an ENTP, I thrive on dreams of a future, and work on bringing them into the present.
 
- * I would rather win than be right, and lose because I was wrong instead of not enough.
+ * I would rather win than be right, or lose because I was wrong instead of not enough.
  
  * I work on 1 idea at a time, calibrate to 5y/ea, battle in the deep blue sea, and avoid the bloody red ocean. 
- 
- * I'll never make an app, nor something that could be someone else's feature.
    
  * I lack resources, so make each one count - _You only live once._
+
+Fundamental shifts in humanity create true opportunity - The industry has poor aim, but moves _very very quickly_.
 
 <!--
 **msmyers/msmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
