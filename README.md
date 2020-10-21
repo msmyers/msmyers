@@ -6,13 +6,15 @@
 
    * **[Zipwhip](https://www.zipwhip.com)** - _"Your customers want to text, let them."_
    
-   * **[Coinme](https://www.coinme.com)** - _"We help people like you et Bitcoin"_
+   * **[Coinme](https://www.coinme.com)** - _"We help people like you get Bitcoin"_
    
    * **[EvoEco](https://www.evoeco.com)** - _"We help people see the good in what they choose."_
  
 As an ENTP, I thrive on dreams of a future, and work on bringing them into the present.
 
  * I would rather win than be right, or lose because I was wrong instead of not enough.
+ 
+ * I've built datacenters, Android pre-loads, TLD SAAS, ATM networks, SMPP platforms, tradebots, and am often the debugger of last resort.
  
  * I work on 1 idea at a time, calibrate to 5y/ea, battle in the deep blue sea, and avoid the bloody red ocean. 
   
