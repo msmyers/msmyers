@@ -12,9 +12,9 @@
  
 As an ENTP, I thrive on dreams of a future, and work on bringing them into the present.
 
- * I would rather win than be right, or lose because I was wrong instead of not enough.
+ * My passion is software.
  
- * I've built datacenters, Android pre-loads, TLD SAAS, ATM networks, SMPP platforms, tradebots, and am often the debugger of last resort.
+ * I would rather win than be right, or lose because I was wrong instead of not enough.
  
  * I work on 1 idea at a time, calibrate to 5y/ea, battle in the deep blue sea, and avoid the bloody red ocean. 
   
