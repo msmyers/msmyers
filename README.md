@@ -1,6 +1,6 @@
 ### Hi there 👋 I do startups.
  
- - I'm a full-stack Entrepreneur - product, marketing, engineering, salesforce.
+ - I'm a full-stack Entrepreneur - business strategy, product, design, marketing, engineering, salesforce.
  
  - I've cofounded a few companies, and have first-mover/started two _industries_.
 
