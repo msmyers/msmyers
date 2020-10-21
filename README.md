@@ -15,10 +15,10 @@ As an ENTP, I thrive on dreams of a future, and work on bringing them into the p
  * I would rather win than be right, or lose because I was wrong instead of not enough.
  
  * I work on 1 idea at a time, calibrate to 5y/ea, battle in the deep blue sea, and avoid the bloody red ocean. 
-   
- * I lack resources, so make each one count - _You only live once._
-
+  
 Fundamental shifts in humanity create true opportunity - The industry has poor aim, but moves _very very quickly_.
+
+ * If you believe in the same, reach out and let's dance on something.
 
 <!--
 **msmyers/msmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
