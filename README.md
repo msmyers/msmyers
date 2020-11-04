@@ -6,7 +6,7 @@
 
    * **[Zipwhip](https://www.zipwhip.com)** - _"Your customers want to text, let them."_
    
-   * **[Coinme](https://www.coinme.com)** - _"We help people like you get Bitcoin"_
+   * **[Coinme](https://www.coinme.com)** - _"We help people like you get Bitcoin."_
    
    * **[EvoEco](https://www.evoeco.com)** - _"We help people see the good in what they choose."_
  
