@@ -1,8 +1,10 @@
 ### Hi there 👋 I do startups.
  
- - I'm a full-stack Entrepreneur - business strategy, product, design, marketing, engineering, salesforce.
+ - I'm a full-stack Entrepreneur.
  
- - I've cofounded a few companies, and have first-mover/started two _industries_.
+   * I love good strategy, product, design, marketing, engineering, salesforce, github, and spaces instead of tabs.
+ 
+ - I've cofounded a few companies & started two _industries_.
 
    * **[Zipwhip](https://www.zipwhip.com)** - _"Your customers want to text, let them."_
    
@@ -10,7 +12,7 @@
    
    * **[EvoEco](https://www.evoeco.com)** - _"We help people see the good in what they choose."_
  
-As an ENTP, I thrive on dreams of a future & work on making them the present.
+- I invest myself in the present.
 
 <!--
 **msmyers/msmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
