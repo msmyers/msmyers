@@ -10,7 +10,7 @@
    
    * **[Coinme](https://www.coinme.com)** - _"We help people like you get Bitcoin."_
    
-   * **[EvoEco](https://www.evoeco.com)** - _"We help people see the good in what they choose."_
+   * **[EvoEco](https://www.evoeco.com)** - _"We help people see the good in which they choose."_
  
 - I invest myself in the present.
 
