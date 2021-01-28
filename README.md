@@ -1,8 +1,8 @@
-### Hi there 👋 I do startups.
+### Hi there 👋  I do startups.
  
- - I'm a full-stack Entrepreneur.
+ - I'm a full-stack Entrepreneur. 
  
-   * I love good strategy, product, design, marketing, engineering, salesforce, github, and spaces instead of tabs.
+   * strategy, product, seo/ads, engineering, salesforce, github, and spaces instead of tabs.
  
  - I've cofounded a few companies & started two _industries_.
 
