@@ -12,7 +12,7 @@
    
    * **[EvoEco](https://www.evoeco.com)** - _"We help people see the good in which they choose."_
  
-- 🔭 🤔 Mission, Family, Self, Partner, Team, Tribe, World. 🌱
+- 🔭 🤔   Mission, Family, Self, Partner, Team, Tribe, World. 🌱
 
 <!--
 **msmyers/msmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
