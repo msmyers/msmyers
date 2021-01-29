@@ -2,7 +2,8 @@
  
  - I'm a full-stack Entrepreneur. 
  
-   * product/strategy, seo/ads/sfdc, circuits/EE, Android/iOS, js/css/kotlin/C#/python, microservices/monoliths/datacenters & spaces instead of tabs.
+   * product/strategy, seo/ads/sfdc, circuits/EE, Android/iOS, js/css/kotlin/C#/python, microservices/monoliths/datacenters &   
+     spaces instead of tabs.
  
  - I've cofounded a few companies & started two _industries_.
 
