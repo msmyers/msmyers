@@ -4,7 +4,7 @@
   
  I've cofounded a few companies & started two _industries_.
 
-   * **[Zipwhip](https://www.zipwhip.com)** - _"Your customers want to text, let them."_
+   * **[Zipwhip](https://www.zipwhip.com)** - _"We help people text you."_
    
    * **[Coinme](https://www.coinme.com)** - _"We help people like you get Bitcoin."_
    
