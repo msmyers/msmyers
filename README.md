@@ -2,7 +2,7 @@
  
  I'm a full-stack Entrepreneur. 
   
- I've cofounded a few companies & started two _industries_.
+ I've cofounded a few companies, the first of two _industries_.
 
    * **[Zipwhip](https://www.zipwhip.com)** - _"We help people text you."_
    
