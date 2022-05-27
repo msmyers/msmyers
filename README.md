@@ -1,6 +1,6 @@
 ### Hi there 👋 I do startups.
  
- I'm a full-stack Entrepreneur. 
+ I'm a full-stack [Entrepreneur](https://www.crunchbase.com/person/michael-smyers).
   
  I've cofounded a few companies, the first of two _industries_.
 
