@@ -14,7 +14,7 @@
  
  🔭 🤔 Mission, Family, Self, Partner, Team, Tribe, World. 🌱
 
-I believe in ground truth, shared goals, big vision, fast hacks, less features, and trying it out.
+I believe in ground truth, shared goals, big vision, fast hacks, less features, build automation, and trying it out.
 
 - 🔭 I’m currently working on [b-street.build](https://b-street.build)
 - 🌱 I’m currently learning [golang](https://go.dev/) and Rust
