@@ -14,7 +14,14 @@
 
 I believe in ground truth, shared goals, big vision, fast hacks, less features, and trying it out.
 
-20 years experience coding projects, building teams, and companies focused on helping people. Hybrid between Entrepreneur, Executive, and Engineer, as appropriate, with a proven track record of delivering successful products/companies at the high level - and coding stuff at the low level.
+20 years of experience coding projects, building teams, solving problems, and building companies focused on helping people. A hybrid between Entrepreneur, Executive, and Engineer, as appropriate, with a proven track record of delivering successful products/companies at a high level - and coding cool stuff at the low level.
+
+- 🔭 I’m currently working on [b-street.build](https://b-street.build)
+- 🌱 I’m currently learning [golang](https://go.dev/) and Rust
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with **your project**
+- 💬 Ask me about your ideas.
+- 📫 How to reach me: `michael@smyers.net`
 
 <!--
 **msmyers/msmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
