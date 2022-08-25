@@ -21,7 +21,7 @@ I believe in ground truth, shared goals, big vision, fast hacks, less features, 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with **your project**
 - 💬 Ask me about your ideas.
-- 📫 How to reach me: `michael@smyers.net`
+- 📫 How to reach me: `michael@b-street.build`
 
 20 years of experience coding projects, building teams, solving problems, and building companies focused on helping people. A hybrid between Entrepreneur, Executive, and Engineer, as appropriate, with a proven track record of delivering successful products/companies at a high level - and coding cool stuff at the low level.
 
