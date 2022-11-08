@@ -10,7 +10,7 @@
    
    * **[EvoEco](https://www.evoeco.com)** - _"We help people see the good in which they choose."_
 
-   * **[b-street.build](https://b-street.build)** - _"We're helping you build things."_
+   * **[b-street.build](https://b-street.build)** - _"We're building blockchain things."_
  
  🔭 🤔 Mission, Family, Self, Partner, Team, Tribe, World. 🌱
 
