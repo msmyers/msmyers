@@ -17,15 +17,14 @@
 I believe in ground truth, shared goals, big vision, fast hacks, less features, build automation, and trying it out.
 
 - 🔭 I’m currently working on [b-street.build](https://b-street.build)
-- 🌱 I’m currently learning [golang](https://go.dev/) and Rust
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with **your project**
-- 💬 Ask me about your ideas.
-- 📫 How to reach me: `michael@b-street.build`
+- 🌱 I’m currently focused on the web3 stack _(Solidity, Hardhat, Forge, React, ethers, etc)._
+- 📫 You can reach me at `michael@b-street.build`
 
 20 years of experience coding projects, building teams, solving problems, and building companies focused on helping people. A hybrid between Entrepreneur, Executive, and Engineer, as appropriate, with a proven track record of delivering successful products/companies at a high level - and coding cool stuff at the low level.
 
-I'm passionate about working on meaningful things and have had the good fortune of working with some incredible people. **I love helping us get it.**
+I'm passionate about working on meaningful things and have had the good fortune of working with some incredible people. **I love helping teams get it.**
+
+**UPDATE:  I've recently established a [Patreon](https://www.patreon.com/michael_smyers) to help me through some tough times.**
 
 <!--
 **msmyers/msmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
