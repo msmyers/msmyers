@@ -24,7 +24,7 @@ I believe in ground truth, shared goals, big vision, fast hacks, less features, 
 
 I'm passionate about working on meaningful things and have had the good fortune of working with some incredible people. **I love helping teams get it.**
 
-**UPDATE:  I've recently established a [Patreon](https://www.patreon.com/michael_smyers) to help me through some tough times.**
+<!-- **UPDATE:  I've recently established a [Patreon](https://www.patreon.com/michael_smyers) to help me through some tough times.** -->
 
 <!--
 **msmyers/msmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
